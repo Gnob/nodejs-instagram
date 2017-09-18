@@ -9,9 +9,11 @@
     "url": "https://github.com/metux/nodejs-instagram.git"
   },
   "dependencies": {
+    "bluebird": "^3.5.0",
     "crawler": "^1.0.5",
     "dirty": "^1.1.0",
     "image-downloader": "^3.2.2",
+    "lodash": "^4.17.4",
     "md5-file": "^3.1.1",
     "mkdirp": "^0.5.1",
     "safe-eval": "^0.3.0"
